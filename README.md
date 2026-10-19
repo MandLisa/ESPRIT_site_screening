@@ -9,7 +9,7 @@ one with low clear-observation density.
 
 | Criterion | Threshold | Data |
 |---|---|---|
-| Climate zone | ≥ 80% of land area in one main Koeppen zone, no permanent ice | Beck et al. (2018) |
+| Climate zone | ≥ 80% of land area in one main Koeppen zone, ≤ 5% permanent ice | Beck et al. (2018) |
 | Observation density | Per zone, one site with high and one with low clear-observation count | Landsat 8/9, Sentinel-2 (2018–2025) |
 | Orbit overlap | ≥ 1 strip covered by neighbouring orbits (90th/10th percentile of acquisitions ≥ 1.3) | Landsat 8/9, Sentinel-2 |
 | Surface classes | ≥ 2 broad classes with ≥ 10% of land area | ESA WorldCover 2021 (Zanaga et al., 2022) |
