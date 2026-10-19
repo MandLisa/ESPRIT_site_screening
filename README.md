@@ -1,6 +1,6 @@
 # Study site screening for embedding robustness in Earth observation
 
-Screening of candidate study sites (100 x 100 km) for a project on how operational
+Screening of candidate study sites (100 x 100 km) for an ESPRIT project (GLEMBEO) on how operational
 sampling of optical satellite archives affects self-supervised embeddings.
 Ten sites are selected, two per main Koeppen climate zone (A–E), one with high and
 one with low clear-observation density.
