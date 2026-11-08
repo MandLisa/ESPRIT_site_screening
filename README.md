@@ -89,7 +89,7 @@ criteria values are in `results/site_selection.csv` and `results/site_screening_
 Observation counts use simple cloud masks (Landsat `QA_PIXEL`, Cloud Score+ threshold
 0.6) with one mosaic per acquisition day. They are meant to rank candidates, not as final
 sampling metrics. Candidate centres are listed in `CANDIDATES` and can be extended, for
-example with `gridCandidates()`.
+example with `gridCandidates()`..
 
 ## References
 
