@@ -19,11 +19,11 @@
 //   8  at most two sites per country
 //
 // Selection
-//   Per zone, the pair of candidates (high and low density) with the largest
-//   ratio of clear observations is selected, subject to criterion 8 and to no
-//   overlap between sites. Without criterion 8 this is simply the candidate
-//   with the most and the one with the fewest clear observations per zone.
-//   The selection runs in select_sites.py on the stage 2 table.
+//   Per zone, one candidate with high and one with low density is selected.
+//   Pairs of all zones are chosen jointly, so that the smallest within-zone
+//   ratio of clear observations is as large as possible, subject to criterion 8
+//   and to no overlap between sites. The selection runs in select_sites.py on
+//   the stage 2 table.
 //
 // Data
 //   Koeppen-Geiger map: Beck et al. (2018), 1 km, user-uploaded asset (see below)
